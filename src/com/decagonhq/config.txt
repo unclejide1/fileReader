@@ -12,3 +12,4 @@ pipeline=fast
 
 [application]
 name=fintrack
+ta=900

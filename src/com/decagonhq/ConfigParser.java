@@ -42,7 +42,6 @@ public class ConfigParser {
         String line;
         FileReader fin = null;
         BufferedReader br = null;
-        InputStreamReader isr = null;
         try {
             fin = new FileReader(this.fileName);
             br = new BufferedReader(fin);
